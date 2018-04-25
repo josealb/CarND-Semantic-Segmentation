@@ -11,4 +11,6 @@ This project demonstrates using FCN 8 architecture (fully convolutional network)
 [Kitti Road dataset](http://www.cvlibs.net/datasets/kitti/eval_road.php) from [here](http://www.cvlibs.net/download.php?file=data_road.zip). 
 The model was implemented in tensorflow, using an adam optimizer and l2 regularization and trained over 2000 epochs. 
 
+Watch the video with the results
+
 [![Watch the video](https://github.com/josealb/CarND-Semantic-Segmentation/blob/master/video.PNG)](https://www.youtube.com/watch?v=W2Q-hBLeQrQ)
