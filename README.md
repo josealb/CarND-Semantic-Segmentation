@@ -1,6 +1,6 @@
 # Semantic Segmentation
 ### Introduction
-This project demonstrates using FCN 8 architecture (fully convolutional network) for semantic segmentation of road images.
+This project demonstrates using [FCN 8 architecture by EC Berkeley](https://people.eecs.berkeley.edu/~jonlong/long_shelhamer_fcn.pdf) (fully convolutional network) for semantic segmentation of road images.
 ### Setup
 ##### Frameworks and Packages
  - [Python 3](https://www.python.org/)
